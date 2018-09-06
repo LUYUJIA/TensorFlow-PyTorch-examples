@@ -1,2 +1,2 @@
 # TensorFlow-PyTorch-practices
-TensorFlow&amp;PyTorch練習
+TensorFlow&amp;PyTorche xamples
